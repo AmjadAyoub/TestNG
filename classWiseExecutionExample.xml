@@ -5,7 +5,7 @@
           name="abracadabra">
         <classes>
 
-
+            <class name="class01.enableDisable"></class>
             <class name="class02.ExamplesAssertion"></class>
             <class name="class01.priority"></class>
 

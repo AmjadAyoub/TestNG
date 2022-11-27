@@ -4,6 +4,7 @@
     <test verbose="2" preserve-order="true" name="abracadabra">
         <packages>
             <package name="class01"></package>
+
         </packages>
 
 
