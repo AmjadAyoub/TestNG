@@ -50,7 +50,7 @@ public class SoftAssertion {
         //assertion
         soft.assertEquals(ActualErrorMsg,ExpectedErrorMsg);
 
-        System.out.println("I am here after 1st assertion"); // this line will execute whwther the assertion fail or not because soft assertion is used
+        System.out.println("I am here after 1st assertion"); // this line will execute whether the assertion fail or not because soft assertion is used
         // check if the webelement error message is displayed
         boolean isDisplayed= errorsMSG.isDisplayed();
         //Assertion
