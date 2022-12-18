@@ -12,5 +12,4 @@ public class AnnotationExample {
     public void anotherTestCase(){
         System.out.println("This is my another test case");
     }
-
 }
